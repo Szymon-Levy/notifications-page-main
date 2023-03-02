@@ -214,6 +214,14 @@ img{
         margin-bottom: 32px;
     }
 
+    .notifications__counter h3 {
+        font-size: 24px;
+    }
+
+    #notifications-number {
+        margin-left: 14px;
+    }
+
     .notifications__list-item {
         padding: 20px;
     }
